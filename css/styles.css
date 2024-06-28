@@ -225,7 +225,7 @@ button {
   color: var(--accent-color);
 }
 
-.contacts {
+.contacts-list {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
