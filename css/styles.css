@@ -28,7 +28,7 @@
   /* Others */
   --items: 4;
   --col-indent: 24px;
-  /* --row-indent: 48px; */
+  --row-indent: 48px;
 }
 /* #endregion */
 
@@ -299,6 +299,7 @@ button {
 /* #region Portfolio */
 .portfolio-list {
   --items: 3;
+  row-gap: var(--row-indent);
 }
 
 .portfolio-item:hover {
